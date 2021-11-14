@@ -8,6 +8,6 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
 ### My Recent projects 
-[Credit_card_Analysis](https://github.com/Meabhijit11/Credit_card_Analysis)
+[Rain_Prediction_in_AUS](https://github.com/Meabhijit11/Rain_Prediction_in_AUS)
 
 ### Skills
